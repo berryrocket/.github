@@ -1,1 +1,2 @@
-# .github
+# BerryRocket
+BerryRocket repository 
