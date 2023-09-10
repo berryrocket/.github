@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-BerryRocket is an open-source kit for multiple rocket type.
+BerryRocket is an open-source kit for multiple rocket type.  
+Go take a look at our website [https://berryrocket.com](https://berryrocket.com)  
 You can contact us at contact[at]berryrocket.com
 <!--
 
